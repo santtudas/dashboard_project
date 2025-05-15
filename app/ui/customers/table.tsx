@@ -3,7 +3,7 @@ import { lusitana } from '@/app/ui/fonts';
 import Search from '@/app/ui/search';
 import {
   // Kommentoitu pois, jotta build onnistuu
-  // CustomersTableType,
+  CustomersTableType,
   FormattedCustomersTable,
 } from '@/app/lib/definitions';
 

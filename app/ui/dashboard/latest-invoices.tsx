@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import Image from 'next/image';
 import { lusitana } from '@/app/ui/fonts';
 // Kommentoitu pois, jotta build onnistuu
-// import { LatestInvoice } from '@/app/lib/definitions';
+import { LatestInvoice } from '@/app/lib/definitions';
 import { fetchLatestInvoices } from '@/app/lib/data';
 
 export default async function LatestInvoices() { // Remove props
