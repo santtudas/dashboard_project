@@ -20,5 +20,6 @@ This is a full-stack financial dashboard application built with Next.js (App Rou
 - NextAuth.js for authentication
 - bcryptjs for password hashing
 
-- User: user@nextmai
-- Password: 123456
+## Credentials
+User: user@nextmail.com
+Password: 123456
